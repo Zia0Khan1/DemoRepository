@@ -21,7 +21,16 @@ class _LoginScreenState extends State<LoginScreen> {
             HeadingWidget(
               myText: "LoginScreen",
             ),
-
+            CustomTextField(
+              hinttext: "login",
+              myIcon: Icons.email_outlined,
+            ),      CustomTextField(
+              hinttext: "login",
+              myIcon: Icons.email_outlined,
+            ),      CustomTextField(
+              hinttext: "login",
+              myIcon: Icons.email_outlined,
+            ),
             CustomTextField(
               hinttext: "login",
               myIcon: Icons.email_outlined,
